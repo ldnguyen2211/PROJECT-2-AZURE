@@ -1,4 +1,4 @@
-## Project Azure 2: Movie Recommender System on Azure
+## Project Azure 2: Movielens Dataset Analysis on Azure
 
 # 1. Overview
 This project demonstrates how to build a movie recommender system using Python and Spark on Microsoft Azure. We’ll analyze the Movielens dataset and deploy the system using Azure Data Factory and Azure Databricks.
